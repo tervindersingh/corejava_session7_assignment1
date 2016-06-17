@@ -1,0 +1,2 @@
+# corejava_session7_assignment1
+Example of ArrayIndexOutBounds Exception
